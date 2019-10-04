@@ -1,2 +1,2 @@
 extend-diff-ignore = "(^|/)(\.gitignore|\.pybuild/.*|README.md|VERSION|AUTHORS)$"
-tar-ignore = -ILICENSE.md
+diff-ignore = "LICENSE.md"

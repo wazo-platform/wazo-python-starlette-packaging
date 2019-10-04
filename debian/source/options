@@ -1,2 +1,1 @@
 extend-diff-ignore = "(^|/)(\.gitignore|\.pybuild/.*|README.md|VERSION|AUTHORS)$"
-diff-ignore = '(?:^|/).*~$|(?:^|/)\.#.*$|(?:^|/)\..*\.sw.$|(?:^|/),,.*(?:$|/.*$)|(?:^|/)(?:DEADJOE|\.arch-inventory|\.(?:bzr|cvs|hg|git|mtn-)ignore)$|(?:^|/)(?:CVS|RCS|\.deps|\{arch\}|\.arch-ids|\.svn|\.hg(?:tags|sigs)?|_darcs|\.git(?:attributes|modules|review)?|\.mailmap|\.shelf|_MTN|\.be|\.bzr(?:\.backup|tags)?)(?:$|/.*$)|LICENSE.md'

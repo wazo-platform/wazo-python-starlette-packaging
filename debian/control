@@ -21,5 +21,7 @@ Depends: ${misc:Depends},
          python3-yaml,
          python3-requests,
          python3-ujson,
-Description: The little ASGI library that shines.
+Description: ASGI library that shines
  .
+ Starlette is a lightweight ASGI framework/toolkit, which is ideal for
+ building high performance asyncio services.
